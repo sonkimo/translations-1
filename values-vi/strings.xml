@@ -2586,21 +2586,21 @@ Press a key to assign it to this action.</string>
     <string name="settings_smoothzoom_nearest">Góc cạnh</string>
     <string name="settings_smoothzoom_linear">Mờ</string>
     <string name="settings_smoothzoom_fast">Nhanh</string>
-    <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions</string>
-    <string name="settings_translateplugins">Translate plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
-    <string name="stage_region_greeter_madewith">A game made with</string>
+    <string name="settings_regionoriginbackup">Tùy chọn đặt lại các thành phố trong các khu vực mới được tạo</string>
+    <string name="settings_translateplugins">Dịch plugins</string>
+    <string name="stage_region_greeter_welcome">Chào mừng đến</string>
+    <string name="stage_region_greeter_madewith">Một trò chơi được thực hiện với</string>
 
 
     <string name="settings_darkbuildtool">Dark build tool</string>
-    <string name="forum_cmdforgot">Forgot?</string>
-    <string name="store_rating">Rating</string>
-    <string name="store_rating_unrated">NOT RATED</string>
-    <string name="store_rating_verynegative">VERY NEGATIVE</string>
-    <string name="store_rating_negative">NEGATIVE</string>
-    <string name="store_rating_mixed">MIXED</string>
-    <string name="store_rating_positive">POSITIVE</string>
-    <string name="store_rating_verypositive">VERY POSITIVE</string>
+    <string name="forum_cmdforgot">Quên hả?</string>
+    <string name="store_rating">Đánh giá</string>
+    <string name="store_rating_unrated">KHÔNG CÓ ĐÁNH GIÁ</string>
+    <string name="store_rating_verynegative">SIÊU TỆ</string>
+    <string name="store_rating_negative">TỆ</string>
+    <string name="store_rating_mixed">BÌNH THƯỜNG</string>
+    <string name="store_rating_positive">TÍCH CỰC</string>
+    <string name="store_rating_verypositive">SIÊU TÍCH CỰC</string>
     <string name="draft_draft_wst_title">Waste disposal happiness</string>
     <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
     <string name="settings_plugin_texture_cache">Plugin texture cache</string>
